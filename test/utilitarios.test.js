@@ -1,4 +1,3 @@
-// utilitarios.test.js
 const Utilitarios = require("../src/utilitarios");
 
 describe("Testes da classe Utilitarios", () => {
